@@ -30,7 +30,7 @@ return 0;
 }
 
 ChatGPT:
-To write an equivalent version of the provided C++ code in R, we can make use of basic R syntax. Here's how it would look:
+To write an equivalent version of the provided C++ code in R, we can make use of basic R syntax. Here s how it would look:
 R Version:
 
 # Assign value to variable
